@@ -61,6 +61,4 @@ This dashboard provides a holistic view of employee attrition dynamics, allowing
 
   
 ## Author
-**Sai Manoj Pandiri**
-- [GitHub](https://github.com/SAI-MANOJ-P)
-- [Linkedin](https://www.linkedin.com/in/saimanojpandiri/)
+**Jahanvi Virani**
